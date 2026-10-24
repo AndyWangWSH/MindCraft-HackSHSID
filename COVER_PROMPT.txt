@@ -1,0 +1,2 @@
+Cover generated with OpenAI built-in image generation.
+Prompt: Create a polished landscape 1536x1024 hackathon project cover. Title exactly 'CourseFlow', subtitle 'Smarter timetables. Same learning time.', small text 'HackSHSID 2026'. Deep midnight navy background, luminous mint and periwinkle floating timetable tiles forming an elegant isometric wave, subtle paths linking classroom blocks, refined modern typography, spacious premium editorial tech style. No performance numbers, no school logo, no personal names. This is a cover illustration, not a data chart.

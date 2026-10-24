@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-24T15:04:39.075Z",
+  "environment": "Node v24.22.1",
+  "method": "Deterministic best-improvement equal-duration swaps; weight 3; one student example.",
+  "tests": [
+    {
+      "name": "odd baseline valid",
+      "status": "PASS"
+    },
+    {
+      "name": "odd all subject counts AND minutes preserved",
+      "status": "PASS"
+    },
+    {
+      "name": "odd locked positions and identities valid",
+      "status": "PASS"
+    },
+    {
+      "name": "odd objective strictly improved",
+      "status": "PASS"
+    },
+    {
+      "name": "odd deterministic repeat",
+      "status": "PASS"
+    },
+    {
+      "name": "odd weight 0 feasible and non-worsening",
+      "status": "PASS"
+    },
+    {
+      "name": "odd weight 8 feasible and non-worsening",
+      "status": "PASS"
+    },
+    {
+      "name": "even baseline valid",
+      "status": "PASS"
+    },
+    {
+      "name": "even all subject counts AND minutes preserved",
+      "status": "PASS"
+    },
+    {
+      "name": "even locked positions and identities valid",
+      "status": "PASS"
+    },
+    {
+      "name": "even objective strictly improved",
+      "status": "PASS"
+    },
+    {
+      "name": "even deterministic repeat",
+      "status": "PASS"
+    },
+    {
+      "name": "even weight 0 feasible and non-worsening",
+      "status": "PASS"
+    },
+    {
+      "name": "even weight 8 feasible and non-worsening",
+      "status": "PASS"
+    },
+    {
+      "name": "unequal-duration swap rejected",
+      "status": "PASS"
+    },
+    {
+      "name": "duplicate / missing lesson rejected",
+      "status": "PASS"
+    },
+    {
+      "name": "locked CAS moved rejected",
+      "status": "PASS"
+    },
+    {
+      "name": "room identity tampering rejected",
+      "status": "PASS"
+    },
+    {
+      "name": "teacher unavailable scenario repaired",
+      "status": "PASS"
+    },
+    {
+      "name": "room unavailable scenario repaired",
+      "status": "PASS"
+    },
+    {
+      "name": "impossible locked teacher scenario reported",
+      "status": "PASS"
+    },
+    {
+      "name": "invalid grid size rejected",
+      "status": "PASS"
+    }
+  ],
+  "bench": [
+    {
+      "week": "odd",
+      "before": {
+        "movement": 17,
+        "repeats": 2,
+        "changes": 0
+      },
+      "after": {
+        "movement": 11,
+        "repeats": 1,
+        "changes": 6
+      },
+      "beforeScore": 23,
+      "afterScore": 14,
+      "runtimeMs": 37.9,
+      "rounds": 3
+    },
+    {
+      "week": "even",
+      "before": {
+        "movement": 16,
+        "repeats": 2,
+        "changes": 0
+      },
+      "after": {
+        "movement": 10,
+        "repeats": 0,
+        "changes": 9
+      },
+      "beforeScore": 22,
+      "afterScore": 10,
+      "runtimeMs": 40.94,
+      "rounds": 5
+    }
+  ]
+}

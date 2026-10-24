@@ -1,0 +1,11 @@
+Browser verification performed in assistant environment, 2026-10-24.
+PASS: Local page loads and renders timetable.
+PASS: Odd week optimize button updates movement 17→11, repetitions 2→1, score 23→14; validator passes.
+PASS: Even week select + optimize updates movement 16→10, repetitions 2→0, score 22→10.
+PASS: Add Chinese unavailable Monday P2 reports a conflict before optimization.
+PASS: Optimize repairs that scenario and validator passes.
+Scope: this is a desktop browser check, not exhaustive cross-browser/mobile certification.
+PASS: Impossible CAS Wednesday P6 restriction remains visibly flagged.
+PASS: Reset restores original 17/2/23 metrics.
+PASS: Additional Chinese lesson lock remains set after optimization.
+PASS: JSON export triggers a completed browser download.

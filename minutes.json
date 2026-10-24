@@ -1,0 +1,200 @@
+[
+  {
+    "week": "odd",
+    "before": {
+      "Art": {
+        "count": 2,
+        "minutes": 105
+      },
+      "CAS": {
+        "count": 2,
+        "minutes": 80
+      },
+      "CS": {
+        "count": 3,
+        "minutes": 155
+      },
+      "Chemistry": {
+        "count": 4,
+        "minutes": 165
+      },
+      "Chinese": {
+        "count": 3,
+        "minutes": 120
+      },
+      "English": {
+        "count": 4,
+        "minutes": 210
+      },
+      "Finance": {
+        "count": 1,
+        "minutes": 45
+      },
+      "Football": {
+        "count": 2,
+        "minutes": 110
+      },
+      "History": {
+        "count": 4,
+        "minutes": 160
+      },
+      "Math": {
+        "count": 4,
+        "minutes": 195
+      },
+      "Physics": {
+        "count": 3,
+        "minutes": 135
+      },
+      "Spanish": {
+        "count": 1,
+        "minutes": 40
+      }
+    },
+    "after": {
+      "Art": {
+        "count": 2,
+        "minutes": 105
+      },
+      "CAS": {
+        "count": 2,
+        "minutes": 80
+      },
+      "CS": {
+        "count": 3,
+        "minutes": 155
+      },
+      "Chemistry": {
+        "count": 4,
+        "minutes": 165
+      },
+      "Chinese": {
+        "count": 3,
+        "minutes": 120
+      },
+      "English": {
+        "count": 4,
+        "minutes": 210
+      },
+      "Finance": {
+        "count": 1,
+        "minutes": 45
+      },
+      "Football": {
+        "count": 2,
+        "minutes": 110
+      },
+      "History": {
+        "count": 4,
+        "minutes": 160
+      },
+      "Math": {
+        "count": 4,
+        "minutes": 195
+      },
+      "Physics": {
+        "count": 3,
+        "minutes": 135
+      },
+      "Spanish": {
+        "count": 1,
+        "minutes": 40
+      }
+    }
+  },
+  {
+    "week": "even",
+    "before": {
+      "Art": {
+        "count": 1,
+        "minutes": 60
+      },
+      "CS": {
+        "count": 3,
+        "minutes": 155
+      },
+      "Chemistry": {
+        "count": 4,
+        "minutes": 165
+      },
+      "Chinese": {
+        "count": 3,
+        "minutes": 120
+      },
+      "English": {
+        "count": 5,
+        "minutes": 250
+      },
+      "Finance": {
+        "count": 1,
+        "minutes": 45
+      },
+      "Football": {
+        "count": 2,
+        "minutes": 110
+      },
+      "History": {
+        "count": 4,
+        "minutes": 160
+      },
+      "Math": {
+        "count": 5,
+        "minutes": 240
+      },
+      "Physics": {
+        "count": 4,
+        "minutes": 175
+      },
+      "Spanish": {
+        "count": 1,
+        "minutes": 40
+      }
+    },
+    "after": {
+      "Art": {
+        "count": 1,
+        "minutes": 60
+      },
+      "CS": {
+        "count": 3,
+        "minutes": 155
+      },
+      "Chemistry": {
+        "count": 4,
+        "minutes": 165
+      },
+      "Chinese": {
+        "count": 3,
+        "minutes": 120
+      },
+      "English": {
+        "count": 5,
+        "minutes": 250
+      },
+      "Finance": {
+        "count": 1,
+        "minutes": 45
+      },
+      "Football": {
+        "count": 2,
+        "minutes": 110
+      },
+      "History": {
+        "count": 4,
+        "minutes": 160
+      },
+      "Math": {
+        "count": 5,
+        "minutes": 240
+      },
+      "Physics": {
+        "count": 4,
+        "minutes": 175
+      },
+      "Spanish": {
+        "count": 1,
+        "minutes": 40
+      }
+    }
+  }
+]
